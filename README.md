@@ -4,6 +4,7 @@
 This project was completed as part of a **Data Science Internship at Cognifyz Technologies**. It involves forecasting restaurant sales using machine learning techniques, data analysis, and visualization to derive insights that help in business decision-making.
 
 ## Tasks Completed
+
 ### Level 1
 1. **Data Exploration & Preprocessing**
    - Checked for missing values and handled them.
